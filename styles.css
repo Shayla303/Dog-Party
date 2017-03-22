@@ -1,0 +1,96 @@
+body{
+  font-family: 'Raleway', sans-serif;
+}
+
+header{
+  height:70px;
+  color: white;
+  background: #92E0E5;
+}
+
+header ul {
+  float: right;
+  padding-right: 20px;
+  font-weight: 700;
+}
+
+header li {
+  display:inline-block;
+  margin: 10px;
+}
+.tiny-dog{
+  float: left;
+  margin:20px;
+}
+
+.main-img {
+    border-radius: 100%;
+    display:block;
+    margin:auto;
+    border: 3px solid #3F8DA7;
+
+}
+
+h1{
+  margin:auto;
+  padding-top: 30px;
+}
+
+.first-dog-button{
+  margin-top: 40px;
+}
+
+button{
+  text-align: center;
+  border-color: #3F8DA7;
+  border-width: 3px;
+  margin: auto;
+  display: block;
+  background-color: white;
+  color: #3F8DA7;
+  font-weight:500;
+  padding: 5px;
+  width: 100px;
+  margin-top: 20px
+}
+h2 article{
+  margin:auto;
+}
+
+article{
+  display: inline-block;
+  text-align: center;
+  width: 33%;
+}
+
+article img{
+  height:200px;
+  width:200px;
+  display: inline-block;
+  border-radius: 100%;
+  border: 3px solid #3F8DA7;
+}
+footer{
+  background-color: #3F8DA7;
+  color: white;
+  text-align: center;
+}
+footer img{
+  display:inline-block;
+  margin: auto;
+  padding:
+}
+   a {
+    color:white;
+    display: inline-block;
+    margin: auto;
+    text-align: center;
+    padding: 20px;
+  }
+
+.main-content {
+  background-image: url("images/park.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  padding-bottom: 50px;
+}
